@@ -15,7 +15,7 @@ Before proceeding to the next steps, please ensure that the following packages a
 ## Quick Start
 1. Clone this repository
 ```bash
-git clone https://github.com/bnb-chain/node-deploy.git
+git clone https://github.com/0xsebasneuron/deploy-bsc-node-script.git
 ```
 
 2. For the first time, please execute the following command
